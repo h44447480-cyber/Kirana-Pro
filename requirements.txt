@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+openpyxl
+groq
+numpy
+fpdf
+weasyprint
+seaborn
+matplotlib
+squarify
